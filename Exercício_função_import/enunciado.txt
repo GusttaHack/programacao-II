@@ -1,0 +1,12 @@
+Crie um sistema de conversão brasileiro. Nesse sistema, o usuário acessará uma interface onde poderá selecionar qual conversão deseja fazer:Comprimento (centímetro, metro, quilometro), Volume (mililitro, litro) , Massa(grama, kilograma, tonelada), Temperatura (Celsius, Fahrenheit, Kelvin) ou Área (centímetro quadrado, metro quadrado, hectare).
+Esse sistemas deve:
+
+1 - Perguntar o nome do usuário e exibir uma saudação.
+2 - Pedir, usando o nome do usuário, que ele(a) selecione qual conversão deseja fazer: Comprimento, Volume, Massa ou Área.
+3 - Solicitar a medida que ele quer converter com base na resposta anterior. Ex: Metro, Kilometro ou Centímetro, caso ele tenha escolhido cumprimento.
+4 - Requisitar para qual medida o valor deverá ser convertido.
+5 - Solicitar o valor numérico.
+6 - Apresentar a conversão na tela e perguntar, usando o nome do usuário,se ele(a) deseja realizar uma nova conversão.
+
+Para isso faça o uso de funções, estruturas de repetição, estruturas condicionais e o import. É importante criar uma interface agradável para interagir e fazer requisições para o usuário.
+
